@@ -13,3 +13,4 @@ git rebase test: add remote
 update locally
 modify remotely
 add line in masete`
+add a line in master

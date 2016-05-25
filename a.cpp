@@ -5,3 +5,9 @@ void func()
 {
 	print();
 }
+
+void func2()
+{
+	print();
+}
+
